@@ -1,9 +1,9 @@
 // Guarda o app e os cadernos no aparelho para abrir mesmo sem internet.
 // Ao publicar produtos novos, aumente a versão para os celulares atualizarem.
-const VERSAO = 'caderno-v1';
+const VERSAO = 'caderno-v2';
 const ARQUIVOS = [
   './', 'index.html', 'produtos.js', 'manifest.webmanifest',
-  'img/unifabra-branco.png', 'img/apisnutri.png', 'img/icon-192.png', 'img/icon-512.png',
+  'img/unipreco-branco.png', 'img/unipreco-cor.png', 'img/mascote.webp', 'img/apisnutri.png', 'img/icon-192.png', 'img/icon-512.png',
   'img/alivtoss.jpg', 'pdf/alivtoss.pdf'
 ];
 self.addEventListener('install', e => {

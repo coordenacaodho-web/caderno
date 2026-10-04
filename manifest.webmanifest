@@ -1,14 +1,14 @@
 {
-  "name": "Caderno de Benefícios Unifabra",
-  "short_name": "Caderno",
+  "name": "Caderno de Benefícios Inteligente",
+  "short_name": "Caderno Inteligente",
   "description": "Busca de produtos de marca exclusiva por nome ou sintoma, com o caderno de benefícios em PDF.",
   "lang": "pt-BR",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#f3f5fa",
-  "theme_color": "#14306b",
+  "background_color": "#f2f8f7",
+  "theme_color": "#00a297",
   "icons": [
     { "src": "img/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
     { "src": "img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
