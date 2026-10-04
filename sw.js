@@ -1,7 +1,7 @@
 // Guarda o app no aparelho para abrir mesmo sem internet.
 // Fotos e cadernos (PDF) ficam guardados à medida que são abertos.
 // Ao publicar produtos novos, aumente a versão para os celulares atualizarem.
-const VERSAO = 'caderno-v3';
+const VERSAO = 'caderno-v4';
 const ARQUIVOS = [
   './', 'index.html', 'produtos.js', 'manifest.webmanifest',
   'img/unipreco-branco.png', 'img/unipreco-cor.png', 'img/mascote.webp', 'img/icon-192.png', 'img/icon-512.png'

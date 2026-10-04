@@ -166,6 +166,30 @@
     .view{ animation:in .22s ease-out }
     @keyframes in{ from{ opacity:.4; transform:translateY(6px) } to{ opacity:1; transform:none } }
   }
+
+  /* ===== topo da tela inicial (v2) ===== */
+  .top{ position:relative; overflow:hidden; background:var(--navy); color:#fff; padding:calc(16px + env(safe-area-inset-top,0px)) 0 0; border-radius:0 0 28px 28px }
+  .top .wrap{ position:relative }
+  .brand{ display:flex; align-items:center; justify-content:space-between; gap:12px }
+  .brand img{ height:34px; width:auto }
+  .brand .selo{ font:700 11px var(--font-display); letter-spacing:.14em; text-transform:uppercase; color:rgba(255,255,255,.85); border:1px solid rgba(255,255,255,.35); border-radius:999px; padding:5px 10px }
+  .hero-home{ display:grid; grid-template-columns:1fr 92px; gap:8px; align-items:end; margin-top:18px }
+  .hero-home .ht{ padding-bottom:58px; min-width:0 }
+  .top h1{ max-width:none; margin:0; font:900 26px/1.15 var(--font-display); letter-spacing:-.01em }
+  .top h1 em{ display:inline-block; font-style:normal; font-size:15px; font-weight:800; letter-spacing:.02em; background:var(--brand-red); color:#fff; padding:3px 10px; border-radius:999px; margin-top:8px; vertical-align:middle }
+  .hero-home .sub{ margin:10px 0 0; font-size:15px; line-height:1.4; color:rgba(255,255,255,.9); max-width:30ch }
+  .mascote{ position:static; width:92px; height:auto; align-self:end; margin-bottom:-6px; pointer-events:none }
+  .busca{ position:relative; z-index:2; margin-top:-40px; background:var(--surface); border:1px solid var(--line); border-radius:20px; box-shadow:0 12px 30px rgba(0,60,55,.14); padding:14px; display:flex; flex-direction:column; gap:12px }
+  .busca .field label{ display:block; margin:0 0 6px 2px; font:700 13px var(--font-display); letter-spacing:0; text-transform:none; color:var(--muted); opacity:1 }
+  .busca .inp{ position:relative }
+  .busca .field input{ width:100%; height:50px; border-radius:12px; border:1.5px solid var(--line); background:var(--surface-2); color:var(--ink); padding:0 44px 0 44px; font-size:16px; outline:none }
+  .busca .field input:focus{ border-color:var(--navy); background:var(--surface) }
+  .busca .field input::placeholder{ color:var(--muted) }
+  .busca .field svg.lead{ position:absolute; left:13px; top:50%; bottom:auto; transform:translateY(-50%); width:21px; height:21px; color:var(--navy-2) }
+  .busca .field .clear{ position:absolute; right:5px; top:50%; bottom:auto; transform:translateY(-50%); width:40px; height:40px; border:0; background:none; color:var(--muted); border-radius:10px; cursor:pointer; display:grid; place-items:center }
+  .busca .field .clear[hidden]{ display:none }
+  #home > main.wrap{ padding-top:22px }
+  @media (min-width:420px){ .hero-home{ grid-template-columns:1fr 110px } .mascote{ width:110px } .top h1{ font-size:28px } }
 </style>
 </head>
 <body>
@@ -175,25 +199,37 @@
     <div class="wrap">
       <div class="brand">
         <img src="img/unipreco-branco.png" alt="Farmácias Unipreço">
+        <span class="selo">Uso interno</span>
       </div>
-      <h1>Caderno de Benefícios <em>Inteligente</em></h1>
-      <img class="mascote" src="img/mascote.webp" alt="" width="355" height="640">
-      <div class="fields">
-        <div class="field">
-          <label for="qProduto">Buscar produto</label>
-          <svg class="lead" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 3h4M10.5 3v3.5a5 5 0 0 0-3 4.6V19a2 2 0 0 0 2 2h5a2 2 0 0 0 2-2v-7.9a5 5 0 0 0-3-4.6V3"/></svg>
-          <input id="qProduto" type="search" placeholder="Nome do produto ou indústria" autocomplete="off" enterkeyhint="search">
-          <button class="clear" data-clear="qProduto" aria-label="Limpar busca de produto" hidden><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+      <div class="hero-home">
+        <div class="ht">
+          <h1>Caderno de Benefícios <em>Inteligente</em></h1>
+          <p class="sub">Ache o produto certo pelo nome ou pelo que o cliente sente.</p>
         </div>
-        <div class="field">
-          <label for="qSintoma">Buscar por sintoma</label>
-          <svg class="lead" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12h4l2-5 4 10 2-5h6"/></svg>
-          <input id="qSintoma" type="search" placeholder="Ex.: tosse, gripe, garganta" autocomplete="off" enterkeyhint="search">
-          <button class="clear" data-clear="qSintoma" aria-label="Limpar busca por sintoma" hidden><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
-        </div>
+        <img class="mascote" src="img/mascote.webp" alt="" width="355" height="640">
       </div>
     </div>
   </header>
+  <div class="wrap">
+    <section class="busca" aria-label="Buscar">
+      <div class="field">
+        <label for="qProduto">Produto</label>
+        <div class="inp">
+          <svg class="lead" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 3h4M10.5 3v3.5a5 5 0 0 0-3 4.6V19a2 2 0 0 0 2 2h5a2 2 0 0 0 2-2v-7.9a5 5 0 0 0-3-4.6V3"/></svg>
+          <input id="qProduto" type="search" placeholder="Nome do produto ou marca" autocomplete="off" enterkeyhint="search">
+          <button class="clear" data-clear="qProduto" aria-label="Limpar busca de produto" hidden><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+        </div>
+      </div>
+      <div class="field">
+        <label for="qSintoma">Sintoma ou necessidade</label>
+        <div class="inp">
+          <svg class="lead" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12h4l2-5 4 10 2-5h6"/></svg>
+          <input id="qSintoma" type="search" placeholder="Ex.: tosse, cãibra, pele seca" autocomplete="off" enterkeyhint="search">
+          <button class="clear" data-clear="qSintoma" aria-label="Limpar busca por sintoma" hidden><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+        </div>
+      </div>
+    </section>
+  </div>
   <main class="wrap">
     <p class="sec-lbl">Sintomas mais comuns</p>
     <div class="chips" id="chips"></div>
