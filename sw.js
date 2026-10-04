@@ -1,10 +1,10 @@
-// Guarda o app e os cadernos no aparelho para abrir mesmo sem internet.
+// Guarda o app no aparelho para abrir mesmo sem internet.
+// Fotos e cadernos (PDF) ficam guardados à medida que são abertos.
 // Ao publicar produtos novos, aumente a versão para os celulares atualizarem.
-const VERSAO = 'caderno-v2';
+const VERSAO = 'caderno-v3';
 const ARQUIVOS = [
   './', 'index.html', 'produtos.js', 'manifest.webmanifest',
-  'img/unipreco-branco.png', 'img/unipreco-cor.png', 'img/mascote.webp', 'img/apisnutri.png', 'img/icon-192.png', 'img/icon-512.png',
-  'img/alivtoss.jpg', 'pdf/alivtoss.pdf'
+  'img/unipreco-branco.png', 'img/unipreco-cor.png', 'img/mascote.webp', 'img/icon-192.png', 'img/icon-512.png'
 ];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(VERSAO).then(c => c.addAll(ARQUIVOS)).then(() => self.skipWaiting()));
@@ -14,11 +14,11 @@ self.addEventListener('activate', e => {
 });
 self.addEventListener('fetch', e => {
   if (e.request.method !== 'GET') return;
+  const url = new URL(e.request.url);
+  if (url.origin !== location.origin) return;
   e.respondWith(
     fetch(e.request).then(r => {
-      if (r.ok && new URL(e.request.url).origin === location.origin) {
-        const copia = r.clone(); caches.open(VERSAO).then(c => c.put(e.request, copia));
-      }
+      if (r.ok) { const copia = r.clone(); caches.open(VERSAO).then(c => c.put(e.request, copia)); }
       return r;
     }).catch(() => caches.match(e.request, { ignoreSearch: true }))
   );
