@@ -226,7 +226,7 @@ window.PRODUTOS = [
    "ADV Farma"
   ],
   "abordagem": "Para limpar esse machucado, a água oxigenada em spray da Bem Care é bem prática: borrifa direto e não contamina o frasco. Já leva uma gaze e um esparadrapo para cobrir?",
-  "foto": null,
+  "foto": "foto-agua-oxigenada-vol-10.jpg",
   "pdf": "agua-oxigenada-vol-10.pdf"
  },
  {
@@ -398,7 +398,7 @@ window.PRODUTOS = [
   ],
   "concorrentes": [],
   "abordagem": "Esse algodão da Bem Care é 100% puro e macio, serve para tirar maquiagem, esmalte e para cuidar do bebê. Já tem acetona ou demaquilante em casa?",
-  "foto": null,
+  "foto": "foto-algodao-bem-care.jpg",
   "pdf": "algodao-bem-care.pdf"
  },
  {
@@ -603,7 +603,7 @@ window.PRODUTOS = [
    "Tracta"
   ],
   "abordagem": "Esse hidratante noturno da Dermunn tem Q10, ajuda a prevenir novas rugas e hidrata a pele a noite toda. Quer levar também o protetor solar Dermunn para usar durante o dia?",
-  "foto": null,
+  "foto": "foto-antissinais-q10-dermunn.jpg",
   "pdf": "antissinais-q10-dermunn.pdf"
  },
  {
@@ -667,7 +667,7 @@ window.PRODUTOS = [
    "Canela de Velho"
   ],
   "abordagem": "Para essa dor, o gel de arnica da Bem Care é ótimo para massagear o local: tem mentol, refresca e o pote de 240 g rende bastante. Quer levar o Polimag para ajudar os músculos por dentro também?",
-  "foto": null,
+  "foto": "foto-arnica-gel.jpg",
   "pdf": "arnica-gel.pdf"
  },
  {
@@ -734,7 +734,7 @@ window.PRODUTOS = [
    "Canela de Velho"
   ],
   "abordagem": "Para essa dor, o Arnica Sport é ótimo: é um gel de arnica extra-forte com mentol, dá para massagear direto no local e refresca na hora. Quer levar junto o Polimag para ajudar na musculatura?",
-  "foto": null,
+  "foto": "foto-arnica-sport.jpg",
   "pdf": "arnica-sport.pdf"
  },
  {
@@ -913,7 +913,7 @@ window.PRODUTOS = [
    "Nexcare"
   ],
   "abordagem": "Essa atadura de crepe ajuda a firmar e proteger o local, e dá para lavar e reutilizar. Se tiver ferida, vale levar um soro fisiológico e clorexidina para limpar antes de enfaixar.",
-  "foto": null,
+  "foto": "foto-atadura-de-crepe-bem-care.jpg",
   "pdf": "atadura-de-crepe-bem-care.pdf"
  },
  {
@@ -1052,7 +1052,7 @@ window.PRODUTOS = [
    "Mondial"
   ],
   "abordagem": "Para acompanhar o peso em casa, essa balança digital da Amis é bem precisa, aguenta até 180 kg e já vem com bateria. Se a ideia é emagrecer, quer conhecer o Fitmil também?",
-  "foto": null,
+  "foto": "foto-balanca-digital-amis.jpg",
   "pdf": "balanca-digital-amis.pdf"
  },
  {
@@ -1114,7 +1114,7 @@ window.PRODUTOS = [
    "Neutrogena"
   ],
   "abordagem": "Para pele ressecada, esse hidratante Bem Care hidrata bem e não tem parabenos; tem aveia e mel, amêndoas e proteína do leite. Quer aproveitar e levar um sabonete da linha?",
-  "foto": null,
+  "foto": "foto-bem-care-hidratentes.jpg",
   "pdf": "bem-care-hidratentes.pdf"
  },
  {
@@ -1354,7 +1354,7 @@ window.PRODUTOS = [
    "Kestal"
   ],
   "abordagem": "Essa cinta da Keep é térmica, tamanho único e modela a cintura com conforto. Quer levar o gel redutor para usar junto?",
-  "foto": null,
+  "foto": "foto-cinta-modeladora-abdominal-keep.jpg",
   "pdf": "cinta-modeladora-abdominal-keep.pdf"
  },
  {
@@ -1433,7 +1433,7 @@ window.PRODUTOS = [
    "Cloreto de Magnésio (Faromac)"
   ],
   "abordagem": "Para essas cãibras e dores, o Cloreto de Magnésio da Unifabra ajuda a relaxar a musculatura e dar mais disposição, e não tem açúcar nem glúten. Se a dor estiver forte, quer levar um Flexalgin junto?",
-  "foto": null,
+  "foto": "foto-cloreto-de-magnesio.jpg",
   "pdf": "cloreto-de-magnesio.pdf"
  },
  {
@@ -1502,7 +1502,7 @@ window.PRODUTOS = [
    "Lavitan"
   ],
   "abordagem": "O Colag-C tem colágeno Verisol, que ajuda na firmeza e elasticidade da pele e fortalece unhas e cabelos; é só dissolver o sachê. Quer levar uma vitamina C junto para melhorar a absorção?",
-  "foto": null,
+  "foto": "foto-colag-c.jpg",
   "pdf": "colag-c.pdf"
  },
  {
@@ -1566,7 +1566,7 @@ window.PRODUTOS = [
    "Fixaderme"
   ],
   "abordagem": "Esse colágeno em cápsulas ajuda a pele a ficar mais firme e fortalece unhas e cabelos, tudo sem açúcar. Quer levar uma vitamina C junto para melhorar a absorção?",
-  "foto": null,
+  "foto": "foto-colageno-hidrolisado.jpg",
   "pdf": "colageno-hidrolisado.pdf"
  },
  {
@@ -1630,7 +1630,7 @@ window.PRODUTOS = [
    "Trifor (Biolab)"
   ],
   "abordagem": "Para essas dores nas juntas, esse colágeno junta o tipo II, que cuida da cartilagem, com o Verisol, em um sachê por dia com a refeição. Quer levar uma vitamina C junto para ajudar na absorção?",
-  "foto": null,
+  "foto": "foto-colageno-verisol-colageno-ii.jpg",
   "pdf": "colageno-verisol-colageno-ii.pdf"
  },
  {
@@ -1690,7 +1690,7 @@ window.PRODUTOS = [
    "Derm Up (Maxinutri)"
   ],
   "abordagem": "Esse colágeno Verisol já vem com ácido hialurônico, ajuda a diminuir rugas e cuida da pele, unhas e cabelo, é só um sachê por dia. Quer levar uma vitamina C para ajudar na absorção?",
-  "foto": null,
+  "foto": "foto-colageno-verisol-com-hialuronico.jpg",
   "pdf": "colageno-verisol-com-hialuronico.pdf"
  },
  {
@@ -1751,7 +1751,7 @@ window.PRODUTOS = [
    "Colágeno (Maxinutri)"
   ],
   "abordagem": "Para a pele ficar mais firme e as unhas e o cabelo mais fortes, esse colágeno com Verisol é um sachê por dia, diluído no suco. Leva junto uma vitamina C, que ajuda na absorção do colágeno?",
-  "foto": null,
+  "foto": "foto-colageno-verisol.jpg",
   "pdf": "colageno-verisol.pdf"
  },
  {
@@ -1796,7 +1796,7 @@ window.PRODUTOS = [
   "vendaAdicional": [],
   "concorrentes": [],
   "abordagem": "Para o seu exame, esse coletor universal já vem estéril e pronto para usar, com tampa de 80 ml. Precisa de mais de um?",
-  "foto": null,
+  "foto": "foto-coletor-universal.jpg",
   "pdf": "coletor-universal.pdf"
  },
  {
@@ -1875,7 +1875,7 @@ window.PRODUTOS = [
    "Top Vit A-Z"
   ],
   "abordagem": "Se o cansaço está pesando, esse A-Z da Unifabra completa a alimentação com vitaminas de A a Zinco e ajuda na energia e na imunidade. Quer levar junto um ômega 3 para a memória e a concentração?",
-  "foto": null,
+  "foto": "foto-complexo-vitaminico-a-z.jpg",
   "pdf": "complexo-vitaminico-a-z.pdf"
  },
  {
@@ -1930,7 +1930,7 @@ window.PRODUTOS = [
    "Hérika"
   ],
   "abordagem": "Para fazer o curativo, essa compressa estéril é ideal para limpar e proteger o machucado. Quer levar um soro fisiológico para lavar o local antes?",
-  "foto": null,
+  "foto": "foto-compressa-esteril.jpg",
   "pdf": "compressa-esteril.pdf"
  },
  {
@@ -1996,7 +1996,7 @@ window.PRODUTOS = [
    "Johnson's"
   ],
   "abordagem": "Para pentear sem sofrimento, esse creme Uni Duni Tê é suave, vegano e com aloe vera e calêndula, deixa os fios macios e soltinhos. Quer levar o shampoo e o condicionador da mesma linha?",
-  "foto": null,
+  "foto": "foto-creme-para-pentear-uni-duni-te.jpg",
   "pdf": "creme-para-pentear-uni-duni-te.pdf"
  },
  {
@@ -2052,7 +2052,7 @@ window.PRODUTOS = [
   ],
   "concorrentes": [],
   "abordagem": "Esse curativo é redondo e maior, resiste à água e a almofada não gruda no machucado. Quer levar uma clorexidina para limpar o local antes de colocar?",
-  "foto": null,
+  "foto": "foto-curat-bem-care-grande-redendo.jpg",
   "pdf": "curat-bem-care-grande-redendo.pdf"
  },
  {
@@ -2109,7 +2109,7 @@ window.PRODUTOS = [
    "Nexcare"
   ],
   "abordagem": "Para cobrir esse machucado, o curativo extragrande da Bem Care tem almofada que não gruda na ferida e aguenta água. Quer levar uma clorexidina para limpar antes de aplicar?",
-  "foto": null,
+  "foto": "foto-curativo-bem-care-extragrande.jpg",
   "pdf": "curativo-bem-care-extragrande.pdf"
  },
  {
@@ -2170,7 +2170,7 @@ window.PRODUTOS = [
    "Naxcare"
   ],
   "abordagem": "Esse curativo Bem Care respira, não gruda no machucado e aguenta água. Quer levar uma clorexidina para limpar o local antes?",
-  "foto": null,
+  "foto": "foto-curativo-bem-care.jpg",
   "pdf": "curativo-bem-care.pdf"
  },
  {
@@ -2305,7 +2305,7 @@ window.PRODUTOS = [
    "Cicatricure"
   ],
   "abordagem": "Essa água micelar tira a maquiagem e limpa o rosto sem irritar, ainda ajudando a controlar a oleosidade. Quer completar a rotina com o protetor solar Dermunn para o dia?",
-  "foto": null,
+  "foto": "foto-dermunn-agua-micelar.jpg",
   "pdf": "dermunn-agua-micelar.pdf"
  },
  {
@@ -2433,7 +2433,7 @@ window.PRODUTOS = [
    "Acnase"
   ],
   "abordagem": "Esse sabonete da Dermunn tem microesferas que tiram as células mortas e as impurezas sem irritar a pele. Quer completar com o hidratante Q10 Dermunn para usar depois?",
-  "foto": null,
+  "foto": "foto-dermunn-sabonete-esfoliante.jpg",
   "pdf": "dermunn-sabonete-esfoliante.pdf"
  },
  {
@@ -2492,7 +2492,7 @@ window.PRODUTOS = [
    "Urepel"
   ],
   "abordagem": "Para essa pele ressecada, a loção Dermunn com 10% de ureia hidrata bem cotovelo, joelho, mãos e pés, é só aplicar 1 ou 2 vezes ao dia. Quer levar um esfoliante para os pés junto?",
-  "foto": null,
+  "foto": "foto-dermunn-ureia-10.jpg",
   "pdf": "dermunn-ureia-10.pdf"
  },
  {
@@ -2557,7 +2557,7 @@ window.PRODUTOS = [
    "Garnier"
   ],
   "abordagem": "Para dar viço e suavizar as linhas de expressão, a Vitamina C da Dermunn tem vitaminas A, C e E e estimula o colágeno. Quer levar junto o protetor solar Dermunn para completar o cuidado durante o dia?",
-  "foto": null,
+  "foto": "foto-dermunn-vitamina-c.jpg",
   "pdf": "dermunn-vitamina-c.pdf"
  },
  {
@@ -2723,7 +2723,7 @@ window.PRODUTOS = [
    "Ricca"
   ],
   "abordagem": "Essa escova da Natus Plants tem cerdas de borracha macias, não machuca o couro cabeludo e não danifica o fio, e ainda cabe na bolsa. Quer um leave-in para desembaraçar ainda melhor?",
-  "foto": null,
+  "foto": "foto-escova-natus-plants.jpg",
   "pdf": "escova-natus-plants.pdf"
  },
  {
@@ -2832,7 +2832,7 @@ window.PRODUTOS = [
    "Drica"
   ],
   "abordagem": "Esse esmalte Smalto tem efeito gel, cobre bem e a cor dura mais na unha. Já tem acetona e algodão em casa?",
-  "foto": null,
+  "foto": "foto-esmalte-smalto-efeito-gel.jpg",
   "pdf": "esmalte-smalto-efeito-gel.pdf"
  },
  {
@@ -2887,7 +2887,7 @@ window.PRODUTOS = [
    "Nexcare"
   ],
   "abordagem": "Para segurar o curativo, o esparadrapo da Bem Care é impermeável e gruda bem, não solta fácil. Já tem gaze e água oxigenada em casa?",
-  "foto": null,
+  "foto": "foto-esparadrapo-bem-care-branco.jpg",
   "pdf": "esparadrapo-bem-care-branco.pdf"
  },
  {
@@ -3063,7 +3063,7 @@ window.PRODUTOS = [
    "Intimus"
   ],
   "abordagem": "Para a higiene íntima, o Femme da Bem Care tem pH equilibrado, é testado por ginecologistas e não irrita a pele. Aproveita e leva o absorvente também?",
-  "foto": null,
+  "foto": "foto-femme-bem-care.jpg",
   "pdf": "femme-bem-care.pdf"
  },
  {
@@ -3143,7 +3143,7 @@ window.PRODUTOS = [
    "Myrafer"
   ],
   "abordagem": "Para a falta de ferro da criança, o Ferromed tem sabor de doce de leite e não costuma dar enjoo nem manchar os dentes, então ela aceita melhor. Quer levar uma vitamina C junto para ajudar na absorção do ferro?",
-  "foto": null,
+  "foto": "foto-ferromed.jpg",
   "pdf": "ferromed.pdf"
  },
  {
@@ -3195,7 +3195,7 @@ window.PRODUTOS = [
   ],
   "concorrentes": [],
   "abordagem": "Para prender o curativo, essa fita microporosa Bem Care é hipoalergênica, discreta e deixa a pele respirar. Quer levar a gaze junto?",
-  "foto": null,
+  "foto": "foto-fita-microp-bem-care.jpg",
   "pdf": "fita-microp-bem-care.pdf"
  },
  {
@@ -3267,7 +3267,7 @@ window.PRODUTOS = [
    "Gel Redutor Ideal"
   ],
   "abordagem": "Para essa gordura localizada e celulite, o Fitmil Gel Redutor ativa a circulação e ajuda a deixar a pele mais firme, junto com alimentação e exercício. Quer levar o Fitmil Plus para ajudar por dentro também?",
-  "foto": null,
+  "foto": "foto-fitmil-gel-redutor.jpg",
   "pdf": "fitmil-gel-redutor.pdf"
  },
  {
@@ -3338,7 +3338,7 @@ window.PRODUTOS = [
    "Global"
   ],
   "abordagem": "Para quem treina e quer reduzir medidas, o Fitmil Plus tem óleo de cártamo e picolinato de cromo, que ajudam na queima de gordura e dão energia. Quer levar junto o guaraná para mais disposição no treino?",
-  "foto": null,
+  "foto": "foto-fitmil-plus.jpg",
   "pdf": "fitmil-plus.pdf"
  },
  {
@@ -3412,7 +3412,7 @@ window.PRODUTOS = [
    "Picolinato de cromo (Catarinense)"
   ],
   "abordagem": "Para quem treina e quer mais energia e ajuda na queima de gordura, o Fitmil Pro+ traz um termogênico e um suplemento de aminoácidos no mesmo kit. Quer levar o Fitmil Gel Redutor para as áreas de gordura localizada?",
-  "foto": null,
+  "foto": "foto-fitmil-pro.jpg",
   "pdf": "fitmil-pro.pdf"
  },
  {
@@ -3474,7 +3474,7 @@ window.PRODUTOS = [
    "Personal"
   ],
   "abordagem": "Essa fralda Baby Care tem absorção em gel e aloe vera, deixa o bebê seco por mais tempo e é ótima para a creche. Já tem lenço umedecido em casa?",
-  "foto": null,
+  "foto": "foto-fralda-baby-care.jpg",
   "pdf": "fralda-baby-care.pdf"
  },
  {
@@ -3530,7 +3530,7 @@ window.PRODUTOS = [
    "Plenitud"
   ],
   "abordagem": "A fralda Bem Care tem gel que absorve rápido, aloe vera e um indicador que mostra a hora de trocar, deixando a pele seca por mais tempo. Quer levar lenços umedecidos para a higiene na troca?",
-  "foto": null,
+  "foto": "foto-fralda-bem-care.jpg",
   "pdf": "fralda-bem-care.pdf"
  },
  {
@@ -3597,7 +3597,7 @@ window.PRODUTOS = [
    "Kuramed"
   ],
   "abordagem": "Para limpar esse machucado, essa clorexidina em spray não arde e pode ser usada em criança e adulto. Quer levar uma gaze e um micropore para cobrir depois?",
-  "foto": null,
+  "foto": "foto-gliconato-de-clorexidina.jpg",
   "pdf": "gliconato-de-clorexidina.pdf"
  },
  {
@@ -3669,7 +3669,7 @@ window.PRODUTOS = [
  {
   "id": "hastes-flexiveis",
   "nome": "Hastes Flexíveis",
-  "industria": "",
+  "industria": "Bem Care",
   "categoria": "Higiene pessoal",
   "tipo": "Hastes flexíveis de algodão",
   "apresentacao": "75 ou 150 unidades",
@@ -3721,7 +3721,7 @@ window.PRODUTOS = [
    "Cotton Baby"
   ],
   "abordagem": "Essas hastes são de puro algodão, com pontas macias que não machucam nem irritam a pele, e a embalagem de 150 rende bastante. Quer levar um óleo de amêndoas junto?",
-  "foto": null,
+  "foto": "foto-hastes-flexiveis.jpg",
   "pdf": "hastes-flexiveis.pdf"
  },
  {
@@ -3796,7 +3796,7 @@ window.PRODUTOS = [
    "Hidraplec"
   ],
   "abordagem": "Para repor o líquido e os sais que o corpo perdeu, o Helydra é prático: é só diluir um flaconete num copo de água. Quer levar um repositor de flora junto para ajudar o intestino?",
-  "foto": null,
+  "foto": "foto-helydra.jpg",
   "pdf": "helydra.pdf"
  },
  {
@@ -3849,7 +3849,7 @@ window.PRODUTOS = [
   "vendaAdicional": [],
   "concorrentes": [],
   "abordagem": "Para repor os líquidos e os sais minerais, o Hidraday é pronto para beber, tem sabor agradável e serve para adultos e crianças. O ideal é tomar aos poucos, gelado ou natural.",
-  "foto": null,
+  "foto": "foto-hidraday.jpg",
   "pdf": "hidraday.pdf"
  },
  {
@@ -3965,7 +3965,7 @@ window.PRODUTOS = [
    "Kestal"
   ],
   "abordagem": "Essa joelheira da Keep tem dois fechos para ajustar e ajuda a manter o joelho estável, vem em P, M e G. Quer levar uma arnica para massagear o local?",
-  "foto": null,
+  "foto": "foto-joelheira-ajust-keep-e-keep-basic.jpg",
   "pdf": "joelheira-ajust-keep-e-keep-basic.pdf"
  },
  {
@@ -4211,7 +4211,7 @@ window.PRODUTOS = [
    "Zotick"
   ],
   "abordagem": "Para quem não está dormindo bem, o Leepzzz tem triptofano, magnésio e vitamina B6, que estimulam a produção de serotonina e melatonina para regular o sono. Se a ansiedade também pesa, posso te mostrar o Ritmoneuran?",
-  "foto": null,
+  "foto": "foto-leepzzz.jpg",
   "pdf": "leepzzz.pdf"
  },
  {
@@ -4271,7 +4271,7 @@ window.PRODUTOS = [
    "Johnson's"
   ],
   "abordagem": "Esse lenço Uni Duni Tê é hipoalergênico, vegano e tem tampa, então dá para levar na bolsa sem ressecar. Quer aproveitar e levar uma pomada para prevenir assaduras?",
-  "foto": null,
+  "foto": "foto-lenco-umedecido-uni-duni-te.jpg",
   "pdf": "lenco-umedecido-uni-duni-te.pdf"
  },
  {
@@ -4438,7 +4438,7 @@ window.PRODUTOS = [
    "Luftal"
   ],
   "abordagem": "Para gases e barriga estufada, o Lufree Gel tem simeticona em cápsula gel, que alivia rápido e não agride o estômago. Se tiver cólica junto, posso te mostrar o Buscopan Composto.",
-  "foto": null,
+  "foto": "foto-lufree-gel.jpg",
   "pdf": "lufree-gel.pdf"
  },
  {
@@ -4499,7 +4499,7 @@ window.PRODUTOS = [
    "Luftal"
   ],
   "abordagem": "Para esses gases, o Lufree em gotas tem sabor cereja e serve para adultos e crianças, com a dose certinha por gota. Quer levar um Repoflor para ajudar o intestino?",
-  "foto": null,
+  "foto": "foto-lufree-gotas.jpg",
   "pdf": "lufree-gotas.pdf"
  },
  {
@@ -4553,7 +4553,7 @@ window.PRODUTOS = [
    "3M Futuro"
   ],
   "abordagem": "Para proteger a mão no treino, a luva Keep Basic tem palma antiderrapante e evita calos, nos tamanhos P, M e G. Quer levar uma arnica para as dores depois do treino?",
-  "foto": null,
+  "foto": "foto-luva-keep-basic.jpg",
   "pdf": "luva-keep-basic.pdf"
  },
  {
@@ -4674,7 +4674,7 @@ window.PRODUTOS = [
    "Pant"
   ],
   "abordagem": "Para essa queda de cabelo, o Minox Defense é um tônico em spray que fortalece a raiz e estimula o crescimento, é só usar uma vez ao dia. Quer levar o Politabs Hair para cuidar também por dentro?",
-  "foto": null,
+  "foto": "foto-minox-defense-uni-cosmetico.jpg",
   "pdf": "minox-defense-uni-cosmetico.pdf"
  },
  {
@@ -4729,7 +4729,7 @@ window.PRODUTOS = [
    "Ideal"
   ],
   "abordagem": "Para dar apoio ao punho, essa munhequeira da Keep é ajustável e de tecido que respira, fica confortável o dia todo. Quer levar o gel de arnica para massagear o local?",
-  "foto": null,
+  "foto": "foto-munhequeira-ajust-elast-keep.jpg",
   "pdf": "munhequeira-ajust-elast-keep.pdf"
  },
  {
@@ -4846,7 +4846,7 @@ window.PRODUTOS = [
    "Head & Shoulders"
   ],
   "abordagem": "Esse My Sir lava cabelo, barba e corpo num produto só e deixa uma sensação refrescante. Quer levar a pomada modeladora da linha para finalizar o cabelo?",
-  "foto": null,
+  "foto": "foto-my-sir-unicosmetica.jpg",
   "pdf": "my-sir-unicosmetica.pdf"
  },
  {
@@ -4907,7 +4907,7 @@ window.PRODUTOS = [
    "Salsep"
   ],
   "abordagem": "Para o nariz entupido, o Nasal da Bem Care ajuda a descongestionar rápido e pode ser usado por adultos e crianças, com bico dosador ou spray. Quer levar uma vitamina C para reforçar a imunidade?",
-  "foto": null,
+  "foto": "foto-nasal.jpg",
   "pdf": "nasal.pdf"
  },
  {
@@ -5077,7 +5077,7 @@ window.PRODUTOS = [
    "Lola"
   ],
   "abordagem": "Para esse frizz, o Óleo de Argan da Unicosmética nutre, dá brilho e ainda protege do calor da chapinha, e o pump evita desperdício. Quer levar uma máscara capilar para completar o tratamento?",
-  "foto": null,
+  "foto": "foto-oleo-de-argan-unicosmetica.jpg",
   "pdf": "oleo-de-argan-unicosmetica.pdf"
  },
  {
@@ -5135,7 +5135,7 @@ window.PRODUTOS = [
    "Barba Skala"
   ],
   "abordagem": "Esse óleo deixa a barba macia, alinhada e com brilho, e o cheiro é ótimo; é só umas gotas por dia. Quer levar a pomada My Sir para o cabelo também?",
-  "foto": null,
+  "foto": "foto-oleo-de-barba-unicosmetica.jpg",
   "pdf": "oleo-de-barba-unicosmetica.pdf"
  },
  {
@@ -5258,7 +5258,7 @@ window.PRODUTOS = [
    "Copra"
   ],
   "abordagem": "Esse óleo de coco extravirgem da Farlife serve para cozinhar e também para hidratar cabelo e pele, é 100% vegetal. Quer levar uma máscara de cabelo para fazer a misturinha?",
-  "foto": null,
+  "foto": "foto-oleo-de-coco-200ml.jpg",
   "pdf": "oleo-de-coco-200ml.pdf"
  },
  {
@@ -5312,7 +5312,7 @@ window.PRODUTOS = [
    "Copra"
   ],
   "abordagem": "Esse óleo de coco em cápsula ajuda a acelerar o metabolismo e o intestino, e não agride o estômago. São 60 cápsulas softgel, sem glúten.",
-  "foto": null,
+  "foto": "foto-oleo-de-coco.jpg",
   "pdf": "oleo-de-coco.pdf"
  },
  {
@@ -5463,7 +5463,7 @@ window.PRODUTOS = [
    "Óleo de Prímula (Nature Vitta)"
   ],
   "abordagem": "Para aliviar esses desconfortos da TPM, o Óleo de Prímula da Unifabra é um aliado natural e ainda ajuda na hidratação da pele. Se a cólica estiver forte, quer levar também um ácido mefenâmico?",
-  "foto": null,
+  "foto": "foto-oleo-de-primula.jpg",
   "pdf": "oleo-de-primula.pdf"
  },
  {
@@ -5600,7 +5600,7 @@ window.PRODUTOS = [
    "Ômega 3 (Lavitan)"
   ],
   "abordagem": "Esse Ômega 3 tem EPA e DHA e ajuda a cuidar do coração, da memória e das inflamações, e o pote rende bastante. Aproveita e quer medir a pressão aqui com a gente?",
-  "foto": null,
+  "foto": "foto-omega-3.jpg",
   "pdf": "omega-3.pdf"
  },
  {
@@ -5661,7 +5661,7 @@ window.PRODUTOS = [
    "Needs"
   ],
   "abordagem": "Para o punho dolorido, essa órtese Keep tem tala removível, imobiliza e dá firmeza, e é boa para quem digita muito. Quer levar uma arnica para massagear o local?",
-  "foto": null,
+  "foto": "foto-ortese-para-punho-keep.jpg",
   "pdf": "ortese-para-punho-keep.pdf"
  },
  {
@@ -5720,7 +5720,7 @@ window.PRODUTOS = [
    "Personalidade"
   ],
   "abordagem": "Esse pack da Baby Care vem com 250 toalhas com aloe vera e sem álcool, rende bastante e não irrita a pele do bebê. Quer levar a fralda junto?",
-  "foto": null,
+  "foto": "foto-pack-baby-care.jpg",
   "pdf": "pack-baby-care.pdf"
  },
  {
@@ -5838,7 +5838,7 @@ window.PRODUTOS = [
    "Cloreto de Magnésio PA (Laboratório da Medicina Natural)"
   ],
   "abordagem": "Para cãibra e tensão muscular, o Polimag Cloreto de Magnésio rende 1 litro e você toma só 45 ml por dia, dura em média 22 dias. Quer levar um Politabs junto?",
-  "foto": null,
+  "foto": "foto-polimag-clo-de-magnesio-pa-33g.jpg",
   "pdf": "polimag-clo-de-magnesio-pa-33g.pdf"
  },
  {
@@ -5906,7 +5906,7 @@ window.PRODUTOS = [
    "Condroflan Ultra (Airela)"
   ],
   "abordagem": "Para essa dor nas juntas, o Polimag Colágeno Tipo II ajuda a nutrir a cartilagem e é para uso contínuo. Quer levar um gel de arnica para massagear o local enquanto isso?",
-  "foto": null,
+  "foto": "foto-polimag-colageno-tipo-ii.jpg",
   "pdf": "polimag-colageno-tipo-ii.pdf"
  },
  {
@@ -6140,7 +6140,7 @@ window.PRODUTOS = [
    "Pharmaton"
   ],
   "abordagem": "Para esse cansaço, o Politabs Energy junta vitaminas, minerais e guaraná em uma cápsula só, depois do café da manhã. Quer levar um Helydra para repor os minerais nos dias mais puxados?",
-  "foto": null,
+  "foto": "foto-politabs-energy.jpg",
   "pdf": "politabs-energy.pdf"
  },
  {
@@ -6219,7 +6219,7 @@ window.PRODUTOS = [
    "Pharmaton Mulher"
   ],
   "abordagem": "O Politabs Femme é um polivitamínico de A a Z feito para a mulher, com ferro, ácido fólico e biotina, dá mais energia e cuida de pele, unhas e cabelo, e é só 1 cápsula depois do café. Quer levar a base fortalecedora Smalto para as unhas?",
-  "foto": null,
+  "foto": "foto-politabs-femme.jpg",
   "pdf": "politabs-femme.pdf"
  },
  {
@@ -6298,7 +6298,7 @@ window.PRODUTOS = [
    "Captrat"
   ],
   "abordagem": "Para essa queda de cabelo, o Politabs Hair tem biotina, zinco e selênio, que ajudam a fortalecer os fios e as unhas, é só 1 cápsula depois do café. Quer levar o shampoo de fortalecimento da Unicosmética para potencializar o resultado?",
-  "foto": null,
+  "foto": "foto-politabs-hair.jpg",
   "pdf": "politabs-hair.pdf"
  },
  {
@@ -6374,7 +6374,7 @@ window.PRODUTOS = [
    "Nutri Imunidade (Equaliv)"
   ],
   "abordagem": "Se você vive gripando, o Politabs Imunidade tem beta-glucana, vitaminas C, D e A, zinco e selênio para fortalecer as defesas, com só 1 comprimido por dia. Se tiver candidíase de repetição, vale levar um própolis junto.",
-  "foto": null,
+  "foto": "foto-politabs-imunidade.jpg",
   "pdf": "politabs-imunidade.pdf"
  },
  {
@@ -6450,7 +6450,7 @@ window.PRODUTOS = [
    "Calcinol MDK"
   ],
   "abordagem": "Para fortalecer os ossos e diminuir as câimbras, o Politabs MDK2 junta cálcio, magnésio, vitamina D3 e K2 numa cápsula sem açúcar. Quer levar um gel de arnica para massagear os músculos doloridos?",
-  "foto": null,
+  "foto": "foto-politabs-mdk2.jpg",
   "pdf": "politabs-mdk2.pdf"
  },
  {
@@ -6523,7 +6523,7 @@ window.PRODUTOS = [
    "Unifabra A-Z"
   ],
   "abordagem": "Para esse cansaço do dia a dia, o Politabs Multi A-Z reúne vitaminas e minerais de A a Zinco em uma cápsula depois do café da manhã. Ajuda na energia e na imunidade, e é zero açúcar.",
-  "foto": null,
+  "foto": "foto-politabs-multi-a-z.jpg",
   "pdf": "politabs-multi-a-z.pdf"
  },
  {
@@ -6602,7 +6602,7 @@ window.PRODUTOS = [
    "Equaliv Nutri Sênior"
   ],
   "abordagem": "Para quem passou dos 50, o Politabs Sênior reúne vitaminas para energia, imunidade, visão e ossos, em uma cápsula depois do café. Quer levar junto o colágeno tipo II para cuidar das juntas?",
-  "foto": null,
+  "foto": "foto-politabs-senior.jpg",
   "pdf": "politabs-senior.pdf"
  },
  {
@@ -6672,7 +6672,7 @@ window.PRODUTOS = [
    "Captrat"
   ],
   "abordagem": "Para unha que quebra fácil e cabelo caindo, esse polivitamínico tem biotina e ácido pantotênico, que ajudam a formar a queratina. Quer levar o shampoo de fortalecimento Unicare para cuidar também do couro cabeludo?",
-  "foto": null,
+  "foto": "foto-polivitaminico-cabelos-e-unhas.jpg",
   "pdf": "polivitaminico-cabelos-e-unhas.pdf"
  },
  {
@@ -6737,7 +6737,7 @@ window.PRODUTOS = [
    "Catarinense Energia"
   ],
   "abordagem": "Para essa falta de energia, o Polivitamínico Energia da Unifabra tem vitaminas e cafeína, que ajudam na disposição e na concentração. Quer levar também um zinco para reforçar?",
-  "foto": null,
+  "foto": "foto-polivitaminico-energia.jpg",
   "pdf": "polivitaminico-energia.pdf"
  },
  {
@@ -6808,7 +6808,7 @@ window.PRODUTOS = [
    "Centrolabs Homem"
   ],
   "abordagem": "Esse polivitamínico da Unifabra foi feito para homem: ajuda na energia, nos músculos e na imunidade, numa cápsula pequena. Se sente dores musculares, quer levar o Polimag junto?",
-  "foto": null,
+  "foto": "foto-polivitaminico-homem.jpg",
   "pdf": "polivitaminico-homem.pdf"
  },
  {
@@ -6871,7 +6871,7 @@ window.PRODUTOS = [
    "Triplo Imuno (Catarinense)"
   ],
   "abordagem": "Para quem vive gripando, esse polivitamínico tem bastante vitamina C numa cápsula pequena e ajuda a reforçar as defesas. Quer levar um própolis junto?",
-  "foto": null,
+  "foto": "foto-polivitaminico-imunidade.jpg",
   "pdf": "polivitaminico-imunidade.pdf"
  },
  {
@@ -6944,7 +6944,7 @@ window.PRODUTOS = [
    "Suplevit Mulher (EMS)"
   ],
   "abordagem": "Esse polivitamínico da Unifabra é feito para a mulher, com bastante ferro e ácido fólico, e ajuda na energia, na imunidade e em pele, unhas e cabelos. Quer levar junto um colágeno para potencializar o cuidado com a pele?",
-  "foto": null,
+  "foto": "foto-polivitaminico-mulher.jpg",
   "pdf": "polivitaminico-mulher.pdf"
  },
  {
@@ -7176,7 +7176,7 @@ window.PRODUTOS = [
   ],
   "concorrentes": [],
   "abordagem": "Para o sapato não machucar, essa fita protetora Bem Care é discreta, respirável e corta fácil. Se já tiver bolha aberta, leve uma clorexidina para limpar antes.",
-  "foto": null,
+  "foto": "foto-protetor-bem-care-fita-adesiva.jpg",
   "pdf": "protetor-bem-care-fita-adesiva.pdf"
  },
  {
@@ -7230,7 +7230,7 @@ window.PRODUTOS = [
    "Nexcare"
   ],
   "abordagem": "Esse protetor ocular é discreto, respirável e hipoalergênico, então é confortável para usar no tratamento todos os dias. A caixa vem com 20 unidades.",
-  "foto": null,
+  "foto": "foto-protetor-ocular.jpg",
   "pdf": "protetor-ocular.pdf"
  },
  {
@@ -7471,7 +7471,7 @@ window.PRODUTOS = [
    "Avon"
   ],
   "abordagem": "Para a limpeza do rosto, o Sabonete Gel Facial da Dermunn é oil free, tira as impurezas e ainda acalma a pele com pantenol e alantoína. Quer levar um hidratante facial para usar depois?",
-  "foto": null,
+  "foto": "foto-sabonete-gel-facial-dermunn.jpg",
   "pdf": "sabonete-gel-facial-dermunn.pdf"
  },
  {
@@ -7646,7 +7646,7 @@ window.PRODUTOS = [
    "O Boticário"
   ],
   "abordagem": "Esse shampoo Uni Duni Tê é suave, não irrita os olhos e serve para todas as idades, e ainda substitui o sabonete líquido no banho. Quer levar o condicionador da mesma linha para desembaraçar melhor?",
-  "foto": null,
+  "foto": "foto-shampoo-uni-duni-te.jpg",
   "pdf": "shampoo-uni-duni-te.pdf"
  },
  {
@@ -7701,7 +7701,7 @@ window.PRODUTOS = [
    "Anita"
   ],
   "abordagem": "Esse amolecedor da Smalto deixa a cutícula macia para tirar com facilidade e ainda hidrata com manteiga de karité. Quer escolher um esmalte para finalizar?",
-  "foto": null,
+  "foto": "foto-smalto-amolecedor-de-cuticulas.jpg",
   "pdf": "smalto-amolecedor-de-cuticulas.pdf"
  },
  {
@@ -7758,7 +7758,7 @@ window.PRODUTOS = [
    "Colorama"
   ],
   "abordagem": "Para unha fraca, essa base Smalto tem pantenol e cálcio, fortalece e seca em um minuto. Quer escolher um esmalte para passar por cima?",
-  "foto": null,
+  "foto": "foto-smalto-base-fortalecedora.jpg",
   "pdf": "smalto-base-fortalecedora.pdf"
  },
  {
@@ -7813,7 +7813,7 @@ window.PRODUTOS = [
    "Colorama"
   ],
   "abordagem": "Para a unha durar mais, o Extra Brilho da Smalto seca em um minuto e segura o esmalte por mais tempo, principalmente os escuros. Quer escolher uma cor de esmalte para combinar?",
-  "foto": null,
+  "foto": "foto-smalto-extra-brilho.jpg",
   "pdf": "smalto-extra-brilho.pdf"
  },
  {
@@ -7868,7 +7868,7 @@ window.PRODUTOS = [
    "Colorama"
   ],
   "abordagem": "Com esse óleo secante Smalto o esmalte seca em um minuto e a unha fica feita por mais tempo. Quer escolher um esmalte novo para levar junto?",
-  "foto": null,
+  "foto": "foto-smalto-oleo-secante.jpg",
   "pdf": "smalto-oleo-secante.pdf"
  },
  {
@@ -7931,7 +7931,7 @@ window.PRODUTOS = [
    "Sorimax"
   ],
   "abordagem": "Esse soro tem bico dosador, então serve tanto para limpar o machucado quanto para a inalação sem desperdiçar. Para o curativo, quer levar uma gaze e um micropore junto?",
-  "foto": null,
+  "foto": "foto-soro-fisiologico-0-9.jpg",
   "pdf": "soro-fisiologico-0-9.pdf"
  },
  {
@@ -7983,7 +7983,7 @@ window.PRODUTOS = [
   ],
   "concorrentes": [],
   "abordagem": "Esse talco Uni Duni Tê absorve a umidade, ajuda a evitar assaduras e não irrita a pele. Quer levar a pomada da mesma linha para completar a proteção?",
-  "foto": null,
+  "foto": "foto-talco-uni-duni-te.jpg",
   "pdf": "talco-uni-duni-te.pdf"
  },
  {
@@ -8095,7 +8095,7 @@ window.PRODUTOS = [
    "Clearblue"
   ],
   "abordagem": "Esse teste Bem Care é em tira, já vem com o copinho e mostra o resultado em um minuto, bem fácil de ler.",
-  "foto": null,
+  "foto": "foto-teste-de-gravidez-bem-care.jpg",
   "pdf": "teste-de-gravidez-bem-care.pdf"
  },
  {
@@ -8144,7 +8144,7 @@ window.PRODUTOS = [
    "Clearblue"
   ],
   "abordagem": "Esse teste de gravidez da Bem Care é em formato caneta, bem fácil de usar, e dá o resultado em 1 minuto.",
-  "foto": null,
+  "foto": "foto-teste-de-gravidez-caneta-bem-care.jpg",
   "pdf": "teste-de-gravidez-caneta-bem-care.pdf"
  },
  {
@@ -8192,7 +8192,7 @@ window.PRODUTOS = [
   "vendaAdicional": [],
   "concorrentes": [],
   "abordagem": "Essa tipoia Keep imobiliza bem o braço e o ombro e tem duas regulagens em cima, dá para ajustar com uma mão só. Qual tamanho fica melhor para você, P, M ou G?",
-  "foto": null,
+  "foto": "foto-tipoia-keep-velpeau-e-imobilizadora.jpg",
   "pdf": "tipoia-keep-velpeau-e-imobilizadora.pdf"
  },
  {
@@ -8252,7 +8252,7 @@ window.PRODUTOS = [
    "Huggies"
   ],
   "abordagem": "Essa toalha umedecida tem aloe vera e não tem álcool, então limpa e hidrata sem irritar a pele do bebê. Já está precisando de fralda também?",
-  "foto": null,
+  "foto": "foto-toalha-baby-care.jpg",
   "pdf": "toalha-baby-care.pdf"
  },
  {
@@ -8306,7 +8306,7 @@ window.PRODUTOS = [
   ],
   "concorrentes": [],
   "abordagem": "Para tirar a maquiagem de forma prática, essa toalha da Bem Care remove, limpa e hidrata, com rosa centifólia e ação calmante. Quer levar um hidratante para finalizar a limpeza?",
-  "foto": null,
+  "foto": "foto-toalha-de-maquilante-bem-care.jpg",
   "pdf": "toalha-de-maquilante-bem-care.pdf"
  },
  {
@@ -8358,7 +8358,7 @@ window.PRODUTOS = [
    "Intimus"
   ],
   "abordagem": "Essas toalhas íntimas Bem Care são sem perfume e sem álcool, testadas por ginecologista, e cabem na bolsa para usar em qualquer momento.",
-  "foto": null,
+  "foto": "foto-toalha-intima-bem-care.jpg",
   "pdf": "toalha-intima-bem-care.pdf"
  },
  {
@@ -8461,7 +8461,7 @@ window.PRODUTOS = [
    "Huggies"
   ],
   "abordagem": "Para a troca de fralda, as toalhas umedecidas Qualy Baby têm calêndula e aloe vera e não têm álcool, então não irritam a pele do bebê. Quer levar as fraldas também?",
-  "foto": null,
+  "foto": "foto-toalhas-umedecidas-qualy-baby.jpg",
   "pdf": "toalhas-umedecidas-qualy-baby.pdf"
  },
  {
@@ -8516,7 +8516,7 @@ window.PRODUTOS = [
    "Mercur"
   ],
   "abordagem": "A tornozeleira Keep é térmica e dá proteção e alívio para o tornozelo, ótima para quem joga bola ou corre. Quer levar um gel de arnica para massagear o local?",
-  "foto": null,
+  "foto": "foto-tornozeleira-keep.jpg",
   "pdf": "tornozeleira-keep.pdf"
  },
  {
@@ -8572,7 +8572,7 @@ window.PRODUTOS = [
   ],
   "concorrentes": [],
   "abordagem": "Para depois do banho, esse óleo Uni Duni Tê hidrata, deixa um perfume duradouro e não irrita a pele da criança. Quer levar o talco da mesma linha?",
-  "foto": null,
+  "foto": "foto-uni-duni-te-oleo-corporal.jpg",
   "pdf": "uni-duni-te-oleo-corporal.pdf"
  },
  {
@@ -8631,7 +8631,7 @@ window.PRODUTOS = [
    "Huggies"
   ],
   "abordagem": "Essa toalha umedecida é vegana, tem D-pantenol e vitamina E e ajuda a prevenir assaduras na troca de fralda. Quer levar a fralda junto?",
-  "foto": null,
+  "foto": "foto-uni-duni-te.jpg",
   "pdf": "uni-duni-te.pdf"
  },
  {
@@ -8988,7 +8988,7 @@ window.PRODUTOS = [
    "Simpli D"
   ],
   "abordagem": "A Vitamina D200 é em gotas, sabor laranja e zero açúcar, e ajuda a fortalecer ossos, músculos e imunidade. Quer levar junto um cálcio, que a vitamina D ajuda a absorver melhor?",
-  "foto": null,
+  "foto": "foto-vitamina-d200.jpg",
   "pdf": "vitamina-d200.pdf"
  },
  {
@@ -9062,7 +9062,7 @@ window.PRODUTOS = [
    "Vitamina E (Maxinutri)"
   ],
   "abordagem": "A vitamina E é um antioxidante que ajuda a proteger as células e deixa a pele mais macia e o cabelo com mais brilho, é uma cápsula por dia. Quer levar um protetor solar para completar o cuidado com a pele?",
-  "foto": null,
+  "foto": "foto-vitamina-e.jpg",
   "pdf": "vitamina-e.pdf"
  },
  {
@@ -9119,7 +9119,7 @@ window.PRODUTOS = [
    "Vult"
   ],
   "abordagem": "O Volumão é um gloss com colágeno e ácido hialurônico que dá brilho e ainda hidrata os lábios. Quer levar um rímel para completar a make?",
-  "foto": null,
+  "foto": "foto-volumao-lip-gloss-unicosmetica.jpg",
   "pdf": "volumao-lip-gloss-unicosmetica.pdf"
  }
 ];
